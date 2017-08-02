@@ -1,0 +1,12 @@
+F:\Visual Studio项目\编译原理\DBMS\DBMS\bin\Debug\DBMS.exe.config
+F:\Visual Studio项目\编译原理\DBMS\DBMS\bin\Debug\DBMS.exe
+F:\Visual Studio项目\编译原理\DBMS\DBMS\bin\Debug\DBMS.pdb
+F:\Visual Studio项目\编译原理\DBMS\DBMS\obj\Debug\DBMS.csprojResolveAssemblyReference.cache
+F:\Visual Studio项目\编译原理\DBMS\DBMS\obj\Debug\DBMS.Properties.Resources.resources
+F:\Visual Studio项目\编译原理\DBMS\DBMS\obj\Debug\DBMS.csproj.GenerateResource.Cache
+F:\Visual Studio项目\编译原理\DBMS\DBMS\obj\Debug\DBMS.exe
+F:\Visual Studio项目\编译原理\DBMS\DBMS\obj\Debug\DBMS.pdb
+F:\Visual Studio项目\编译原理\DBMS\DBMS\obj\Debug\DBMS.FrmMain.resources
+F:\Visual Studio项目\编译原理\DBMS\DBMS\obj\Debug\DBMS.FrmTableName.resources
+F:\Visual Studio项目\编译原理\DBMS\DBMS\obj\Debug\DBMS.FrmTableDesign.resources
+F:\Visual Studio项目\编译原理\DBMS\DBMS\obj\Debug\DBMS.FrmTableEdit.resources
